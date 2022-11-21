@@ -1,0 +1,11 @@
+John|12 |123 Road|4381233449
+Abby| 43|43 St Street|111234
+Ada |22|12 Penny lane|512-2234
+Elena | 55    |Alotta Spaces Street   |
+|66|Owl field|440-2313
+Zita|20|14 Summerhill|743-3332
+George|22|11123
+Aaron|32|59 Albert avenue|111-1123
+|10|23 Jerry blvd|12345555
+Alamo|90||555-32421
+Zita|33|asd|12345
